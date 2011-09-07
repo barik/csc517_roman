@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    test-unit (2.3.2)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  test-unit
